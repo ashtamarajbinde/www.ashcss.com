@@ -1,44 +1,125 @@
 .main{
     height: 600px;
-    width: 1200px;
-    background-image: url(images/india\ get\ 1.webp);
-    
+    width: 1350px;
+    background-image: url(images/india\ gate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
+.header{
+    height: 100px;
+    width: 1350px;
+}
 .logo{
-    height: 200px;
+    height: 100px;
     width: 200px;
-    background-color:transparent;
     float: left;
-    
 }
-.logo h1{
-    color:yellow;
-    font-size: 50px;
-    margin-left: 20px;
+h1{
+    color: aliceblue;
+    font-size: 35px;
 }
 .manu{
     height: 100px;
-    width: 1000px;
-    
-    float: left;
+    width: 1350px;
+    padding-top: 10px;
 }
 .manu ul li{
-    display: block;
-    color: yellow;
-    font-size: 20px;
-    top: -50px;
-    float: left;
-    width: 50px;
-    height: 60px;
-    margin-top: 50px;
-    margin-left: 100px;
-    text-align: center;
-    line-height: 90px;
+    display: inline;
+    font-size: 30px;
+    margin-left: 120px;
     
 }
+a{
+    color: aliceblue;
+}
+a:hover{
+    color:red;
+}
 .container{
-    height: 550px;
+    height: 400px;
     width: 1350px;
     
 }
+.text1{
+    height: 50px;
+    width: 1350px;
+    float: left;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline yellow;
+}
+.text1:hover{
+    color: red;
+}
+.change-some::after{
+    content:"";
+    animation: changeashtama 10s infinite linear;
+    color:red;
+    text-shadow: 2px 3px blanchedalmondss;
+}
+ @keyframes changeashtama{
+    10%{ content: "maharashtra";}
+20%{ content: "pune";}
+30%{ content: "mumbai";}
+ }
+ .text2{
+    height: 100px;
+    width: 1350px;
+    float: left;
+    text-align: center;
+    color: white;
+    font-size: 70px;
+ }
+ .text2:hover{
+    color: orange;
+ }
+ 
+ .text3{
+    height:50px ;
+    width: 1350px;
+    float: left;
+    text-align: center;
+ }
+button{
+    height: 40px;
+    width: 100px;
+    position: relative;
+    left: 550px;
+}
+ 
+button:hover{
+    background-color: skyblue;
+    color: brown;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+tfoot{
+    background-color: royalblue;
+    text-align: center;
+}
+tbody{
+    background-color:pink;
+    text-align: center;
+}
+thead{
+    background-color: aqua;
+}
+caption{
+    background-color: khaki;
+    font-size: 20px;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+    outline: red dotted 6px ;
+    width: 50%; 
+    margin-top: 25px;
+    
+}

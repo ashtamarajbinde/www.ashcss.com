@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    height: 600px;
+    width: 1350px;
+    background-image: url(images/girlcollege-laptop-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    height: 50px;
+    width: 350px;
+    background-color: blue;
+    float: left;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    text-transform: uppercase;
+}
+
+.menu {
+    height: 50px;
+    width: 1000px;
+    padding-top: 20px;
+    float: left;
+}
+
+ul li {
+    position: relative;
+    left: 60px;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    width: 140px;
+    float: left;
+    height: 50px;
+    line-height: 30px;
+    
+}
+
+a {
+    color: yellow;
+    font-size: 30px;
+}
+
+a:hover {
+    color: blue;
+}
+
+ul li>ul li{
+    width: 200px;
+    height: 40px;
+    display: none;
+    background-color: red;
+    border: solid green 2px;
+
+}
+
+ul li:hover>ul li {
+    display:inline;
+
+}
+
+.content {
+    height: 500px;
+    width: 700px;
+}
+
+.content h2 {
+    font-size: 30px;
+    color: black;
+    position: relative;
+    top: 100px;
+    left: 150px;
+    text-transform: uppercase;
+    text-shadow: 5px;
+}
+
+.content h3 {
+    font-size: 50px;
+    position: relative;
+    top: 110px;
+    color: black;
+    left: 150px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+
+
+}
+
+.content h4 {
+    font-size: 20px;
+    position: relative;
+    top: 120px;
+    left: 150px;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+}
+
+button {
+    height: 40px;
+    width: 130px;
+    position: relative;
+    top: 150px;
+    left: 150px;
+    font-size: 20px;
+
+
+}
+
+button:hover {
+    background-color: blue;
+    border: none;
+}
