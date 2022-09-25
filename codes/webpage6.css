@@ -1,0 +1,290 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    height: 1500px;
+    width: 1350px;
+    background-color: wheat;
+}
+
+.header {
+    height: 80px;
+    width: 1350px;
+    background-color: black;
+}
+
+.logo {
+    height: 80px;
+    width: 150px;
+    float: left;
+    padding-left: 40px;
+
+}
+
+h1 {
+    color: aliceblue;
+    text-transform: capitalize;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.menu {
+    height: 80px;
+    width: 1150px;
+}
+
+a {
+    font-size: 30px;
+    color: aliceblue;
+    text-decoration: none;
+    line-height: 70px;
+    margin-left: 50px;
+    padding-left: 40px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.container-1 {
+    height: 400px;
+    width: 1350px;
+    background-color:wheat;
+}
+
+h2 {
+    padding-top: 80px;
+    padding-left: 300px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+
+p {
+    height: 200px;
+    width: 400px;
+    padding-left: 300px;
+    padding-top: -200px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.two {
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 800px;
+    top: 150px;
+}
+.three{
+    height: 50px;
+    width:150px;
+    color: whitesmoke;
+    background-color: forestgreen;
+    font-size: 20px;
+    position:relative;
+    left:300px;
+    top: -20px;
+    text-transform: capitalize;
+}
+.three:hover{
+    background-color: red;
+}
+.container-2{
+    height:500px ;
+    width: 1350px;
+    background-color:white;
+}
+.four{
+    font-size: 40px;
+    text-transform: capitalize;
+    padding-top: 10px;
+}
+.form1{
+    height: 200px;
+    width: 250px;
+    background-color: black;
+    position:relative;
+    top: -140px;
+    left: 150px;
+}
+.form1{
+    color: pink;
+}
+.five{
+    font-size: 25px;
+    text-transform: capitalize;
+    position: relative;
+    top: -130px;
+    left: 150px;
+}
+.six{
+    position: relative;
+    top:-120px ;
+    right:150px;
+    height: 200px;
+    width: 300px;
+}
+.seven{
+    position: relative;
+    top: -220px;
+    font-size: 20px;
+    left: 150px;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+.seven:hover{
+    background-color:red;
+}
+.form2{
+    height: 200px;
+    width: 250px;
+    background-color: black;
+    position:relative;
+    top: -570px;
+    left: 520px;
+}
+.form2:hover{
+    background-color: orange;
+}
+.eight{
+    position: relative;
+    top:-560px ;
+    font-size: 25px;
+    text-transform: capitalize;
+    left:520px;
+    float: left;
+}
+.nine{
+    position: relative;
+    top: -525px;0px ;
+    left:215px ;
+    height: 200px;
+    width: 300px;
+}
+.ten{
+    position: relative;
+    top: -620px;
+    font-size: 20px;
+    left: 510px;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+.ten:hover{
+    background-color: red;
+}
+.form3{
+    height: 200px;
+    width: 250px;
+    background-color: black;
+    position:relative;
+    top: -970px;
+    left: 900px;
+}
+.form3:hover{
+    background-color: yellow;
+}
+.eleven{
+    position: relative;
+    top:-560px ;
+    font-size: 25px;
+    text-transform: capitalize;
+    left:520px;
+    float: left;
+}
+.twelve{
+    position: relative;
+    top: -525px;0px ;
+    left:215px ;
+    height: 200px;
+    width: 300px;
+}
+.thirteen{
+    position: relative;
+    top: -620px;
+    font-size: 20px;
+    left: 510px;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    float: left;
+}
+.thirteen:hover{
+    background-color: red;
+}
+.ashtama{
+    position: relative;
+    top:-400px;
+    left: 380px;
+}
+
+.form4{
+    height: 250px;
+    width: 350px;
+    background-color:black;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+    position: relative;
+    top: -930px;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+.form4:hover{
+    background-color:red;
+}
+h3{
+    font-size: 30px;
+}
+
+
+img{
+    height: 40px;
+    width: 50px; 
+    margin-right:200px;
+    margin-left: 5px;
+
+}
+h4{
+text-align: center;
+margin-right: 80px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

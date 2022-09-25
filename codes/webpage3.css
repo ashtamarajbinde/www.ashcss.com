@@ -1,69 +1,81 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0%;
+    padding: 0%;
 }
 
 .main {
     height: 600px;
     width: 1350px;
-    background-image: url(images/girlcollege-laptop-image.png);
+    /*background-image: url(images/girlcollege-laptop-image.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
+}
+.header{
+    height: 50px;
+    width: 1350px;
+    background-color: antiquewhite;
 }
 
-.logo {
+h1{
     height: 50px;
     width: 350px;
-    background-color: blue;
+    background-color: yellowgreen;
     float: left;
-    position: relative;
-    top: 10px;
-    left: 20px;
-    text-transform: uppercase;
 }
 
 .menu {
     height: 50px;
     width: 1000px;
-    padding-top: 20px;
     float: left;
 }
-
-ul li {
-    position: relative;
-    left: 60px;
-    text-decoration: none;
+ul li{
+    float: left;
     list-style: none;
+    line-height: 50px;
+    width: 150px;
     text-align: center;
-    width: 140px;
-    float: left;
-    height: 50px;
-    line-height: 30px;
-    
-}
+    background-color: orange;
+    border: 3px solid blue;
 
-a {
-    color: yellow;
-    font-size: 30px;
 }
-
-a:hover {
-    color: blue;
-}
-
 ul li>ul li{
-    width: 200px;
-    height: 40px;
     display: none;
+    background-color: yellowgreen;
+}
+ul li:hover>ul li{
+    display: block;
+    border: 2px solid red;
+}
+
+
+
+
+
+
+/*
+ul li  {
+    float: left;
+    background-color: aqua;
+    height: 50px;
+    width:120px;
+    line-height: 50px;
+    list-style: none;
+}
+ul li:hover {
+    background-color: yellow;
+}
+ul li>ul li {
+    display: none;
+}
+ul li :hover>ul li {
+    display: block;
     background-color: red;
-    border: solid green 2px;
+}
+ul li >ul li a{
+    background-color: bisque;
 
 }
-
-ul li:hover>ul li {
-    display:inline;
-
-}
+*/
 
 .content {
     height: 500px;
@@ -80,7 +92,7 @@ ul li:hover>ul li {
     text-shadow: 5px;
 }
 
-.content h3 {
+marquee{
     font-size: 50px;
     position: relative;
     top: 110px;
@@ -88,8 +100,6 @@ ul li:hover>ul li {
     left: 150px;
     text-transform: uppercase;
     letter-spacing: 1.2px;
-
-
 }
 
 .content h4 {

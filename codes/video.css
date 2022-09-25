@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    height: 600px;
+    width: 1350px;
+    background-color: yellow;
+    
+}
+.main:hover{
+    background-color: red;
+}
+.one{
+    height: 400px;
+    width: 600px;
+    margin: 100px;
+}

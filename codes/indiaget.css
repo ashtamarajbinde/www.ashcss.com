@@ -1,5 +1,5 @@
 .main{
-    height: 600px;
+    height: 650px;
     width: 1350px;
     background-image: url(images/india\ gate.jpg);
     background-repeat: no-repeat;
@@ -17,6 +17,9 @@
 h1{
     color: aliceblue;
     font-size: 35px;
+}
+h1:hover{
+    background-color: yellow;
 }
 .manu{
     height: 100px;

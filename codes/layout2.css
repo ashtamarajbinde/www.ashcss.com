@@ -1,0 +1,49 @@
+* {
+    margin: auto;
+    padding: 0;
+    padding: auto;
+}
+
+.main {
+    height: 500px;
+    width: 700px;
+    background-color: aqua;
+}
+
+.img1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+
+.logo {
+    height: 50px;
+    width: 600px;
+    background-color: palevioletred;
+    float: left;
+}
+
+.navbar {
+    height: 50px;
+    width: 600px;
+    background-color: salmon;
+    float: left;
+    
+    
+}
+
+.container {
+    height: 300px;
+    width: 700px;
+    background-color: yellow;
+    float: left;
+    
+}
+
+.footer {
+    height: 100px;
+    width: 700px;
+    background-color: blueviolet;
+    float: left;
+}

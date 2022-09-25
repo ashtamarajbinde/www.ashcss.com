@@ -1,0 +1,46 @@
+.main{
+    height: 600px;
+    width: 1350px;
+    background-color: aqua;
+}
+.form1{
+    height: 200px;
+    width: 300px;
+    background-color:orange;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.form1:hover{
+    background-color: red;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.form2{
+    height: 200px;
+    width: 300px;
+    background-color:yellow;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.form2:hover{
+    background-color:cornflowerblue;
+}
+.form3{
+    text-transform: capitalize;
+    height: 200px;
+    width: 300px;
+    background-color:orchid;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.form3:hover{
+    background-color:darkmagenta;
+}
