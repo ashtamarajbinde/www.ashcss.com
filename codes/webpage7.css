@@ -4,9 +4,9 @@
 }
 
 .main {
-    height: 2000px;
+    height: 2210px;
     width: 1350px;
-    background-color: aqua;
+    background-color:black;
 }
 
 .header {
@@ -56,7 +56,7 @@ a:hover {
 .container1 {
     height: 500px;
     width: 1350px;
-    background-image: url(/images/girlcollege-laptop-image.png);
+    background-image: url(images/girlcollege-laptop-image.png);
     background-size: cover;
 }
 
@@ -85,10 +85,11 @@ h2 {
 .container2 {
     height: 150px;
     width: 1350px;
-    background-color: blueviolet;
+    background-color:;
 }
 
 .from1 {
+    color: aliceblue;
     height: 150px;
     width: 300px;
     background-color: orangered;
@@ -99,6 +100,9 @@ h2 {
     text-align: center;
     font-size: 20px;
     text-transform: capitalize;
+}
+.from1:hover{
+    background-color: lightcoral;
 }
 
 h3 {
@@ -172,52 +176,182 @@ h4 {
 }
 
 .img1 {
-    background-color: yellow;
-    height: 300px;
-    width:598px;
-    float: left;
-    margin-left:2px;
     
+    height: 300px;
+    width: 598px;
+    float: left;
+    margin-left: 2px;
+
 }
 
 .from4 {
-    height: 300px;
+    height: 350px;
     width: 1200px;
-    background-color:plum;
+    
     margin-left: 70px;
     float: left;
 }
 
-.img2{
-    background-color:red;
+.img2 {
+    
     height: 300px;
-    width:298px;
+    width: 298px;
     float: left;
-    margin-left:1px;
+    margin-left: 1px;
 }
-.form3-image1{
+
+.form3-image1 {
     height: 300px;
     width: 598px;
 }
 
+.form4-image1 {
+    height: 300px;
+    width: 298px;
+}
+
+.button5 {
+    text-transform: capitalize;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 150px;
+    margin-left: 470px;
+    margin-top: 5px;
+    border: 5px solid;
+}
+
+.button5:hover {
+    background-color: yellow;
+}
+
+.from5 {
+    height: 300px;
+    width: 1200px;
+    margin-left:70px;
+    float: left;
+border: 2px wheat;
 
 
 
+}
+.from5:hover{
+    background-color: firebrick;
+}
 
+.a7 {
+    height: 300px;
+    width: 380px;
+    background-color:bisque
+    margin-left: 1px;
+    float: left;
+    text-align: center;
+    color: white;
+}
 
+.a8 {
+    font-size: 30px;
+    margin-top: 15px;
+}
 
+.a9 {
+    font-size: 20px;
+}
 
+.a10 {
+    font-size: 20px;
+}
 
+input {
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    text-transform: capitalize;
+    border: 3px white;
+}
 
+input:hover {
+    background-color: red;
+}
 
+.submit {
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-right: 80px;
+    border: 5px solid;
+}
 
+.submit:hover {
+    background-color: aqua;
+}
 
+.a13 {
+    height: 60px;
+    width: 1200px;
+    
+    float: left;
+}
 
-
-
-
-
-
+.a14 {
+    height: 50px;
+    width:80px;
+    
+    float: left;
+    position: relative;
+    margin: 2px;
+    top:-30px;
+    left: 500px;
+}
+h6{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 2px;
+}
+.fa-phone{
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 5px;
+    margin-right: 40px;
+}
+.fa-envelope{
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 5px;
+    margin-right: 20px;
+}
+.fa-earth-americas{
+    font-size: 30px;
+    color: whitesmoke;
+    margin: 5px;
+    margin-right: 20px;
+}
+.fa-facebook{
+    color: aliceblue;
+    font-size: 50px;
+}
+.fa-twitter{
+    color: aliceblue;
+    font-size: 50px;
+}
+.fa-instagram{
+    color: aliceblue;
+    font-size: 50px;
+}
+.fa-inbox{
+    color: aliceblue;
+    font-size: 50px;
+}
+.fa-camera{
+    color: aliceblue;
+    font-size: 50px;
+}
+.fa-link{
+color: aliceblue;
+    font-size: 50px;
+}
 
 
 

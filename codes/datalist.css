@@ -1,0 +1,11 @@
+input{
+    height: 50px;
+    width: 100px;
+}
+.one{
+    height: 40px;
+    width: 150px;
+}
+.fa-facebook{
+    color: red;
+}
