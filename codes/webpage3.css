@@ -6,9 +6,9 @@
 .main {
     height: 600px;
     width: 1350px;
-    /*background-image: url(images/girlcollege-laptop-image.png);
+    background-image: url(images/girlcollege-laptop-image.png);
     background-repeat: no-repeat;
-    background-size: cover;*/
+    background-size: cover;
 }
 .header{
     height: 50px;
