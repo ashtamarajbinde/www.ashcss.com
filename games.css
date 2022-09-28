@@ -1,0 +1,136 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.main {
+    height: 1500px;
+    width: 1350px;
+    background-color: blueviolet;
+}
+
+.header {
+    height: 100px;
+    width: 1350px;
+    background-color: yellowgreen;
+    float: left;
+}
+
+.logo {
+    height: 100px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-size: 25px;
+    float: left;
+
+}
+
+.a1 {
+    font-size: 15px;
+    height: 20px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    float: left;
+}
+
+.menu {
+    height: 100px;
+    width: 1000px;
+    float: left;
+}
+
+a {
+    float: left;
+    list-style: none;
+    line-height: 50px;
+    width: 150px;
+    position: relative;
+    left: 300px;
+    text-transform: uppercase;
+    top: -40px;
+    font-size: 30px;
+    text-align: center;
+}
+.container1{
+    height: 350px;
+    width: 1350px;
+    background-color: palevioletred;
+}
+h2{
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-left: 250px;
+    position: relative;
+    top: 30px;
+}
+p{
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-left: 250px;
+    position: relative;
+    top: 40px;
+    color: aliceblue;
+}
+span{
+    color:red;
+}
+.button1{
+    position: relative;
+    top: 50px;
+    font-size: 20px;
+    height: 35px;
+    width: 150px;
+    text-transform: capitalize;
+    margin-left: 250px;
+    color: aliceblue;
+    background-color:red;
+}
+.button1:hover{
+
+background-color: royalblue;
+}
+.container2 {
+    height:600px;
+    width:1000px;
+    background-color:khaki;
+    margin: auto;
+}
+
+.from1 {
+    color: aliceblue;
+    height:250px;
+    width:230px;
+    background-color: orangered;
+    float: left;
+    margin: 4px;
+    margin-left: 13px;
+    margin-top: 40px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
