@@ -4,7 +4,7 @@
 }
 
 .main {
-    height:1200px;
+    height: 1200px;
     width: 1350px;
     background-color: blueviolet;
 }
@@ -53,19 +53,22 @@ a {
     font-size: 30px;
     text-align: center;
 }
-.container1{
+
+.container1 {
     height: 350px;
     width: 1350px;
     background-color: palevioletred;
 }
-h2{
+
+h2 {
     font-size: 30px;
     text-transform: capitalize;
     margin-left: 250px;
     position: relative;
     top: 30px;
 }
-.a7{
+
+.a7 {
     font-size: 40px;
     text-transform: uppercase;
     margin-left: 250px;
@@ -73,10 +76,12 @@ h2{
     top: 40px;
     color: aliceblue;
 }
-span{
-    color:red;
+
+span {
+    color: red;
 }
-.button1{
+
+.button1 {
     position: relative;
     top: 50px;
     font-size: 20px;
@@ -85,19 +90,22 @@ span{
     text-transform: capitalize;
     margin-left: 250px;
     color: aliceblue;
-    background-color:red;
+    background-color: red;
 }
-.button1:hover{
 
-background-color: royalblue;
+.button1:hover {
+
+    background-color: royalblue;
 }
+
 .container2 {
-    height:600px;
-    width:1000px;
-    background-color:khaki;
+    height: 600px;
+    width: 1000px;
+    background-color: khaki;
     margin: auto;
 }
-h3{
+
+h3 {
     font-size: 30px;
     text-transform: capitalize;
     text-decoration: underline;
@@ -107,24 +115,27 @@ h3{
 
 .from1 {
     color: aliceblue;
-    height:250px;
-    width:230px;
+    height: 250px;
+    width: 230px;
     background-color: orangered;
     float: left;
     margin: 4px;
     margin-left: 13px;
     margin-top: 10px;
 }
-h4{
-margin-top: 200px;
-margin-left: 10px;
+
+h4 {
+    margin-top: 200px;
+    margin-left: 10px;
 }
-.a50{
-    margin-top:-70px;
+
+.a50 {
+    margin-top: -70px;
     font-size: 20px;
     margin-left: -60px;
 }
-.a2{
+
+.a2 {
     font-size: 25px;
     width: 220px;
     height: 50px;
@@ -133,138 +144,78 @@ margin-left: 10px;
     border: none;
     margin-left: 350px;
 }
-.a2:hover{
+
+.a2:hover {
     background-color: red;
 }
 
-.a10{
-margin-left: 850px;
-margin-top:px;
+.a10 {
+    margin-left: 850px;
+    margin-top: px;
 }
-.fa-star{
+
+.fa-star {
     position: relative;
     left: 100px;
     top: -15px;
 }
-.a6{
+
+.a6 {
     position: relative;
     top: -60px;
 }
-h1{
+
+h1 {
     color: aliceblue;
 }
-.container3{
+
+.container3 {
+    height: 300px;
+    width: 1000px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.container4 {
     height: 100px;
     width: 1000px;
+    background-color: tomato;
 }
-.text-1{
+
+.text-1 {
     height: 100px;
     width: 140px;
     float: left;
-    margin-right: 20px;
+    margin-right: ;
 }
-h2{
+
+.a10 {
     color: aliceblue;
+    
 }
-p{
+
+p {
     color: rgb(red, green, blue);
     margin-top: -20px;
+
+
 }
-img{
+
+img {
     height: 70px;
     width: 100px;
     padding-top: 15px;
 }
-button{
+
+button {
     height: 30px;
     width: 140px;
     position: relative;
     top: 35px;
     background: transparent;
     border: 1px solid white;
-    color:rgb(red, green, blue);
+    color: rgb(red, green, blue);
     border-radius: 10px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

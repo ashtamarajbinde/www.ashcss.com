@@ -1,0 +1,30 @@
+.flex-main{
+    height: 600px;
+    width: 600px;
+    background-color: green;
+    margin: auto;
+
+}
+.flex-header{
+    height:80px;
+    width:550px;
+    background-color:;
+    margin: 5px;
+    
+}
+.flex-sidebar{
+    height: 400px;
+    width: 300px;
+    background-color: red;
+    float: left;
+}
+.flex-content{
+    height: 400px;
+    width:280px ;
+    background-color: blue;
+}
+.flex-footer{
+    height: 100px;
+    width: 600px;
+    background-color: tomato;
+}
