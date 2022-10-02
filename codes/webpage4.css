@@ -126,37 +126,25 @@ p{
     right: 350px;
     text-transform: capitalize;
 }
-.content3 h1{
-    height: 800px;
-    width: 1350px;
+.content3 {
+    height: 500px;
+    width: 1000px;
+    background-color: aqua;
+    margin-top: -750px;
+    margin-left: 150px;
+    
+}
+h1{
+    margin-top: px;
     color: aliceblue;
-    font-size: 50px;
-    position: relative;
-    top: -850px;
-    left:150px;
-    text-transform: capitalize;
 }
-.one h2{
-    position: relative;
-    top: -1250px;
-    font-size: 30px ;
-    left: 100px; 
-    float: left;
+.a2{
+    height: 100px;
+    width: 200px;
+    background-color: blanchedalmond;
+    margin: 5px;
 }
-two{
-    position: relative;
-    height: 50px;
-    width: 100px;
-    font-size: 10px;
-    top: -1200;
-left:200px ;
-}
-.three{
-    position: relative;
-    top: -1250;
-    left:200px ;
-    font-size: 30px;
-}
+
 
 
 
