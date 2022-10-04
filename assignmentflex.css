@@ -1,29 +1,30 @@
-.flex-main{
+main{
     height: 600px;
     width: 600px;
-    background-color: green;
+    background-color: blueviolet;
     margin: auto;
 
 }
-.flex-header{
+header{
     height:80px;
     width:550px;
-    background-color:;
-    margin: 5px;
+    background-color:olive;
+    
     
 }
-.flex-sidebar{
+aside{
     height: 400px;
     width: 300px;
     background-color: red;
     float: left;
 }
-.flex-content{
+section{
     height: 400px;
     width:280px ;
     background-color: blue;
+    float: right;
 }
-.flex-footer{
+footer{
     height: 100px;
     width: 600px;
     background-color: tomato;
