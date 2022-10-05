@@ -1,223 +1,249 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
-.main{
+
+.main {
     height: 1600px;
     width: 1350px;
     background-color: bisque;
 }
-.header{
+
+.header {
     height: 100px;
     width: 1350px;
     background-color: blanchedalmond;
     float: left;
 }
-.logo{
+
+.logo {
     height: 100px;
     width: 250px;
-    background-color:blanchedalmond;
+    background-color: blanchedalmond;
     float: left;
 }
-h1{
+
+h1 {
     margin-left: 30px;
     font-size: 40px;
     padding-top: 30px;
     text-transform: capitalize;
 }
-.menu{
+
+.menu {
     height: 100px;
     width: 1111px;
     background-color: ;
-    
+
 }
-a{
-    width:140px;
+
+a {
+    width: 140px;
     font-size: 35px;
-    display:inline-block;
+    display: inline-block;
     margin-left: 50px;
-    margin-top:28px;
+    margin-top: 28px;
     text-transform: capitalize;
     color: black;
     text-decoration: none;
-    
+
 }
-a:hover{
+
+a:hover {
     background-color: red;
 }
-.side1{
-    margin-left:1030px;
+
+.side1 {
+    margin-left: 1030px;
     margin-top: -70px;
     width: 300px;
     word-spacing: 16px;
-    
-    
-}
-.fa-facebook{
-    color:black;
-    background-color: aliceblue;
-    font-size: 50px;
-    
-}
-.fa-twitter{
 
-    color:black;
+
+}
+
+.fa-facebook {
+    color: black;
+    background-color: aliceblue;
+    font-size: 50px;
+
+}
+
+.fa-twitter {
+
+    color: black;
     font-size: 50px;
     background-color: aliceblue;
 }
-.fa-instagram{
-    color:black;
+
+.fa-instagram {
+    color: black;
     font-size: 50px;
     background-color: aliceblue;
 }
-.content1{
+
+.content1 {
     height: 500px;
     width: 1350px;
     color: aliceblue;
-    
+
 }
-.img1{
+
+.img1 {
     height: 500px;
     width: 1350px;
 }
-.a1{
+
+.a1 {
     margin-top: -450px;
     text-transform: capitalize;
     margin-left: 90px;
 }
-.a2{
+
+.a2 {
     font-size: 60px;
     margin-top: -20px;
     margin-left: 90px;
 
 }
-.a3{
+
+.a3 {
     font-size: 20px;
     margin-left: 90px;
 
 }
-.a4{
+
+.a4 {
     font-size: 30px;
     margin-left: 90px;
     margin-top: 20px;
     width: 170px;
 }
-.a4:hover{
+
+.a4:hover {
     background-color: aqua;
 }
-.a5{
+
+.a5 {
     font-size: 30px;
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 20px;
     width: 170px;
 }
-.a5:hover{
+
+.a5:hover {
     background-color: aqua;
 }
-.content2{
+
+.content2 {
     height: 650px;
     width: 1350px;
 }
-.img2{
-    height:500px ;
+
+.img2 {
+    height: 500px;
     width: 600px;
     margin-left: 40px;
     margin-top: 150px;
 }
-.b1{
+
+.b1 {
     margin-top: -450px;
     text-transform: capitalize;
     margin-left: 700px;
     font-size: 20px;
 }
-.b2{
+
+.b2 {
     margin-top: 10px;
     margin-left: 700px;
     text-transform: capitalize;
     font-size: 40px;
 }
-.side2{
+
+.side2 {
     margin-top: 40px;
     margin-left: 700px;
     word-spacing: 40px;
-    
+
 }
-.b3{
+
+.b3 {
     margin-top: 50px;
     margin-left: 700px;
     text-transform: capitalize;
-    font-size:20px;
+    font-size: 20px;
 }
-.fa-facebook{
-    color:black;
+
+.fa-palette {
+    color: black;
     width: 80px;
     text-align: center;
     height: 60px;
     background-color: aliceblue;
     font-size: 50px;
-    
+
 }
-.fa-twitter{
+
+.fa-hand-point-up{
     width: 80px;
     text-align: center;
     height: 60px;
-    color:black;
-    font-size: 50px;
-    background-color: aliceblue;
-}
-.fa-instagram{
-    width: 80px;
-    text-align: center;
-    height: 60px;
-    color:black;
+    color: black;
     font-size: 50px;
     background-color: aliceblue;
 }
 
-.b4{
+.fa-user-nurse{
+    width: 80px;
+    text-align: center;
+    height: 60px;
+    color: black;
+    font-size: 50px;
+    background-color: aliceblue;
+}
+
+.b4 {
     margin-left: 700px;
     margin-top: 40px;
     width: 200px;
     font-size: 30px;
     text-transform: capitalize;
 }
-.b4:hover{
+
+.b4:hover {
     background-color: aqua;
 }
-.content3{
+
+.content3 {
     height: 400px;
     width: 1350px;
     text-transform: capitalize;
 }
-.img3{
+
+.img3 {
     height: 350px;
     width: 400px;
     margin-left: 700px;
     margin-top: -800px;
 }
-.c1{
+
+.c1 {
     font-size: 20px;
-    margin-left:100px;
+    margin-left: 100px;
     margin-top: 50px;
 
 }
-.from{
+
+.from {
     height: 300px;
     width: 1200px;
     background-color: white;
     font-size: 60px;
-    margin-left:50px;
+    margin-left: 50px;
 }
-.c2{
+
+.c2 {
     font-size: 60px;
     margin-left: 100px;
 }
-
-
-
-
-
-
-
-
-
