@@ -1,31 +1,44 @@
-main{
-    height: 600px;
-    width: 600px;
+.main{
+    height:500px;
+    width:600px;
     background-color: blueviolet;
     margin: auto;
 
 }
-header{
-    height:80px;
-    width:550px;
+.header{
+    height:70px;
+    width:600px;
     background-color:olive;
+    text-align: center;
+    color: aliceblue;
+    font-size: 10px;
     
     
 }
-aside{
-    height: 400px;
-    width: 300px;
-    background-color: red;
-    float: left;
+.sidebar{
+    height: 330px;
+    width:200px;
+    background-color:olive;
+    text-align: center;
+    color: aliceblue;
+    font-size: 10px;
+    margin-top: 50px;
 }
-section{
-    height: 400px;
-    width:280px ;
-    background-color: blue;
-    float: right;
+.content{
+    height: 330px;
+    width:350px ;
+    background-color:olive;
+    text-align: center;
+    font-size: 10px;
+    margin-top: -340px;
+    margin-left:230px;
 }
 footer{
-    height: 100px;
+    height: 65px;
+    margin-top:30px;
     width: 600px;
-    background-color: tomato;
+    color: aliceblue;
+    background-color:olive;
+    text-align: center;
+    font-size: 10px;
 }

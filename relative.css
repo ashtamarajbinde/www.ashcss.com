@@ -1,0 +1,12 @@
+
+body{
+    font-size: 30px;
+    background-color: blue;
+}
+aside{
+    font-size: 20px;
+}
+
+aside p{
+    font-size: 2rem;
+}

@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main-container{
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: yellow;
+    flex-basis: 15%;
+    display:flex;
+
+}
+.logo{
+    background-color: powderblue;
+    flex-basis: 20%;
+
+}
+.nav{
+    background-color: skyblue;
+    flex-basis: 80%;
+    display: flex;
+    flex-direction: column;
+}
+section{
+    background-color: lightcoral;
+    flex-basis: 70%;
+}
+menu{
+    background-color:mediumaquamarine;
+    flex-basis: 90%;
+}
+main{
+    background-color: green;
+    flex-basis: 70%;
+    display: flex;
+}
+aside{
+    background-color: purple;
+    flex-basis: 25%;
+    display: flex;
+    flex-direction: column;
+}
+.a-1{
+    background-color: wheat;
+    flex-basis: 25%;
+}
+.a-2{
+    background-color: rosybrown;
+    flex-basis: 25%;
+}
+.a-3{
+    background-color: teal;
+    flex-basis: 25%;
+}
+.a-4{
+    background-color: indianred;
+    flex-basis: 25%;
+}
+section{
+    background-color: pink;
+    flex-basis: 50%;
+    display: flex;
+}
+.b-1{
+    background-color: seagreen;
+    flex-basis: 25%;
+
+}
+.b-2{
+    background-color: darkmagenta;
+    flex-basis: 25%;
+}
+.b-3{
+    background-color: darkorange;
+    flex-basis: 25%;
+}
+.b-4{
+    background-color: goldenrod;
+    flex-basis: 25%;
+}
+.second-box{
+    background-color: lightcoral;
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.second-box-2{
+    background-color: aqua;
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: row;
+}
+.top{
+    background-color: wheat;
+    flex-basis: 50%;
+}
+.bottom{
+    background-color: aqua;
+    flex-basis: 50%;
+}
+.top-1{
+    background-color: teal;
+    flex-basis: 50%;
+}
+.bottom-1{
+    background-color: tomato;
+    flex-basis: 50%;
+}
+footer{
+    background-color: gray;
+    flex-basis: 15%;
+}
