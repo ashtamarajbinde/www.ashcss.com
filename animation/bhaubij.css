@@ -6,7 +6,8 @@
 main{
 background-image: url(images/diwali1.jpg);
     height: 100vh;
-    width: 100vw;
+    width: 100%;
+    background-size: cover;
 }
 h1{
     color: aliceblue;
@@ -66,7 +67,36 @@ animation-iteration-count: infinite;
      20%{transform: scale(0.3);} 
        
     } 
-    
+    audio{
+        height: 20px;
+        position: relative;
+        top: 480px;
+        left: 100px;
+    }
+    @media all and (max-width:600px){
+        h1{
+            font-size: 20px;
+        }
+        .happy{
+            position: absolute;
+            left: 170px;
+            top: 95px;
+            
+
+        }
+        img{
+            position: absolute;
+            top: 280px;
+            left: 50px;
+
+        }
+        
+        h2{
+position: absolute;
+left: 100px;
+top: 180px;
+        }
+    } 
 
 
     
