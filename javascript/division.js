@@ -1,0 +1,1 @@
+console.log(" division of "+10/5)

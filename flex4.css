@@ -5,48 +5,31 @@
 main{
     display: flex;
     flex-direction: column;
-    
 }
 header{
-    background-color: red;
+    background-color:blueviolet;
 }
+
 nav{
-
-    background-color: green;
-}
-ul{
-    display: flex;
-    list-style: none;
-    justify-content: space-evenly;
-}
-
-a{
-    font-size: 2rem;
-    color: aliceblue;
-    text-decoration: none;
+    background-color: aqua;
 }
 .main-section{
     display: flex;
     flex-direction: row;
 }
-
 .one{
     background-color: teal;
 }
 .two{
-    background-color: lightcoral;
+    background-color: tomato;
 }
 .three{
-    background-color: turquoise;
-} 
-
-
-footer{
-    background-color: yellow; 
+    background-color: lawngreen;
 }
-    
-
-@media all and(max-width:700px){
+footer{
+    background-color: blue;
+}
+@media (max-width:700px){
     .main-section{
         flex-direction: column;
     }

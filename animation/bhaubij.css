@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+main{
+background-image: url(images/diwali1.jpg);
+    height: 100vh;
+    width: 100vw;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-style: italic;
+     text-transform: capitalize;
+     position: relative;
+     top: 30px;
+     animation: h1 3s infinite;
+}
+@keyframes h1{
+10%{color:aqua;}
+20%{color: yellow;}
+30%{color: blue;}
+40%{color:teal;}
+}
+h2{
+    position: relative;
+    top: 20vh;
+    left: 30vh;
+    font-size: 70px;
+    color: aliceblue;
+    text-transform: capitalize;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    animation: h2 1s infinite; 
+    
+
+}
+@keyframes h2{
+    
+10%{transform: translateY(10px); }
+20%{color: aquamarine;}
+30%{color: lawngreen;}
+40%{color: purple;}
+}
+.happy{
+    position: relative;
+    left: 40vh;
+    color:lightcyan;
+}
+img{
+    position: relative;
+    top: -60px;
+    left: 50vw;
+    height:50vh;
+    animation-name: ash;
+animation-duration:5s;
+animation-delay: 1s;
+animation-iteration-count: infinite;
+
+}
+
+@keyframes ash{
+    10%{transform: scale(0.1);}
+     20%{transform: scale(0.3);} 
+       
+    } 
+    
+
+
+    
