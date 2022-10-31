@@ -5,7 +5,7 @@
 .main{
     height:3000px;
     width: 1350px;
-    background-color:brown;
+    background-color:teal;
 }
 .logo{
     height: 100px;
@@ -110,7 +110,7 @@ h6{
     right: 200px;
 }
 .content2{
-    height: 500px;
+    height: 200px;
     width: 500px;
     font-size: 20px;
     position: relative;
@@ -126,24 +126,37 @@ p{
     right: 350px;
     text-transform: capitalize;
 }
-.content3 {
-    height: 500px;
-    width: 1000px;
-    background-color: aqua;
-    margin-top: -750px;
-    margin-left: 150px;
-    
+button{
+    position: relative;
+    top: -500px;
+    left: 650px;
+    font-size: 25px;
+    width: 180px;
+    height: 40px;
+    border: 2px solid red;
+    text-transform: capitalize;
 }
-h1{
-    margin-top: px;
-    color: aliceblue;
+button:hover{
+    background-color: yellow;
 }
-.a2{
-    height: 100px;
-    width: 200px;
-    background-color: blanchedalmond;
-    margin: 5px;
+.a-1{
+    margin-top: -75%;
+    margin-left: 10%;
+    font-size: 40px;
+    text-transform: capitalize;
+    text-decoration: dashed;
 }
+.fa-address-book{
+    margin-top: -60%;
+    margin-left: 40%;
+}
+.a-2{
+    margin-left:35% ;
+    font-size: 20px;
+    margin-top: -2%;
+}
+
+
 
 
 
