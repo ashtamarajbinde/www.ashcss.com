@@ -3,7 +3,7 @@
     padding: 0;
 }
 .main{
-    height:3000px;
+    height:1250px;
     width: 1350px;
     background-color:teal;
 }
@@ -154,6 +154,48 @@ button:hover{
     margin-left:35% ;
     font-size: 20px;
     margin-top: -2%;
+}
+.contact{
+    height: 550px;
+    width: 100%;
+    background-color: aquamarine;
+    margin-bottom: 300px;
+
+}
+.contact-1{
+    height: 550px;
+    width: 50%;
+    background-color: blueviolet;
+    float:left;
+}
+.contact-2{
+    height: 550px;
+    width: 50%;
+    background-color: lawngreen;
+    float: right;
+}
+.a-20{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-left: 60px;
+
+}
+.a-21{
+    font-size: 25px;
+    margin-left: 450px;
+}
+form{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+input{
+    width: 500px;
+    height: 30px;
+    margin-top: 20px;
+}
+textarea{
+    margin-top: 20px;
+    width: 500px;
 }
 
 
