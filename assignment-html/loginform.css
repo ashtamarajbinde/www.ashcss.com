@@ -19,7 +19,7 @@ form{
     justify-content: center;
     flex-direction: column;
     border-radius: 5px;
-    
+    gap:20px;
     
 }
 
