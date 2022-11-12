@@ -1,0 +1,44 @@
+.main{
+    height: 600px;
+    width: 1200px;
+    background-image: url(images/india\ get\ 1.webp);
+    
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+    background-color:transparent;
+    float: left;
+    
+}
+.logo h1{
+    color:yellow;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.manu{
+    height: 100px;
+    width: 1000px;
+    
+    float: left;
+}
+.manu ul li{
+    display: block;
+    color: yellow;
+    font-size: 20px;
+    top: -50px;
+    float: left;
+    width: 50px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 90px;
+    
+}
+.container{
+    height: 550px;
+    width: 1350px;
+    
+}

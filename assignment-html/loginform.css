@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+width: 100vw;
+height: 100vh;
+background: linear-gradient(90deg, purple ,red);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+form{
+    background-color: aliceblue;
+    width: 25vw;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    
+    
+}
+
+h1{
+    text-transform: capitalize;
+    margin-left: -35px;
+}
+
+input{
+    width: 60%;
+    height: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 17px;
+}
+.a{
+    margin-left: -90px;
+    font-size:18px;
+    color:purple;
+    text-transform: capitalize;
+    margin-top: -10px;
+}
+button{
+    width:60%;
+    height: 30px;
+    text-transform: capitalize;
+    font-size: 17px;
+    background: linear-gradient(90deg,purple, red);
+    border-radius: 5px;
+    border: none;
+}
+.ash{
+    display: flex;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+@media (max-width:480px) {
+    form{
+        width: 60%;
+    }
+    h1{
+        margin-left: 25px;
+    }
+    .a{
+        margin-left:0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+// //unary operator
+// // a.increment ++     + means addition    +means 1
+// // ex.1
+// a=5;
+// a++
+// console.log(a)
+
+// //b.decrement --     -means substraction    -means1
+// // ex.1
+// b=5;
+// b--
+// console.log(b)
+
+// // ex.2
+// let d=10;
+// d++
+// d++
+// d++
+// d++
+// d++
+// console.log(d)
+
+// //ex.2
+// c=6;
+// c--
+// c--
+// c--
+// c--
+// console.log(c)
+
+// // prefix
+// //ex.1
+// let m=20;
+// let n=++m;
+// console.log(n);
+
+// //postfix
+// //ex.1
+// let x=55;
+// let y=x++;
+// console.log(y);
+
+// //2.binary operator
+// //b.arithmatic operator
+// let a,b,c ;
+// a=10;
+// b=10;
+// c=a+b;
+// console.log(c)
+
+//b. assignment operator
+//  let p,q ;           
+//  p=11;                          
+//  q=12;                         
+//  p=p+q;                        
+//  console.log(p)        
+ 
+ // or
+//  let r,s;
+//  r=22;
+//  s=33;
+//  r+=s;
+//  console.log(r)
+
+//  // relational operator
+// // ex.1
+// console.log("greater > " , 55 < 90)
+
+// ex.2
+// let mark=90;
+// let pass=mark>45;
+// console.log(pass);
+
+// //ex. 3
+// let mark=10;
+// let pass=mark>45;
+// console.log(pass);
+
+// ex. 4
+// let mark=20;
+// let pass=mark>20;
+// console.log(pass);
+
+// ex.5
+// let mark=20;
+// let pass=mark>=20;
+// console.log(pass);
+
+// equality
+// ex.1 ==
+// let mark='10';
+// console.log(10==mark);
+
+// ex.2
+// let mark=true;
+// console.log(1==mark);
+
+// ex. 1 ===
+// let mark='10';
+// console.log(10===mark);
+
+//ex.2
+// let mark=true;
+// console.log(1===mark);
+
+//logical operator
+// // ex.1
+// let username='ash';
+// let password='ash';
+// let login=username=='ash' || password=='1199';
+// console.log(login)
+
+// // ex.2
+// let username='ash';
+// let password='ash';
+// let login=username=='ash' && password=='1199';
+// console.log(login)
+
+// // ex.1
+let username='ash';
+let password='ash';
+let login=username=='sam' || password=='nam';
+console.log(login)
+
+// // ex.1
+// let username='ash';
+// let password='ash';
+// let login=username=='ash' && password=='sam';
+// console.log(login)
+
+//=====ternary operator===========
+// // ex.1
+// let mark=100;
+// result=mark ? 60 : 20;
+// console.log(result)
+
+// ex.2
+let mark=50;
+result=mark> 75 ? "pass":"failed";
+console.log(result)
+

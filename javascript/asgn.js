@@ -1,5 +1,5 @@
 let name='john';
-let admin=name
+let admin=ash
 console.log('name:'+admin)
 
 let ourplanate='earth'
