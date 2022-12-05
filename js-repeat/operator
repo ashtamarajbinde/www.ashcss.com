@@ -129,13 +129,13 @@ console.log(login)
 // console.log(login)
 
 //=====ternary operator===========
-// // ex.1
-// let mark=100;
-// result=mark ? 60 : 20;
-// console.log(result)
+// ex.1
+let mark=100;
+result=mark >20? 20 : 60;
+console.log(result)
 
 // ex.2
-let mark=50;
-result=mark> 75 ? "pass":"failed";
-console.log(result)
+// let mark=50;
+// result=mark> 75 ? "pass":"failed";
+// console.log(result)
 

@@ -38,9 +38,10 @@ input{
 .a{
     margin-left: -90px;
     font-size:18px;
-    color:purple;
+    color:red;
     text-transform: capitalize;
     margin-top: -10px;
+    font-weight: bold;
 }
 button{
     width:60%;
@@ -58,7 +59,8 @@ button{
 }
 a{
     text-decoration: none;
-    color: blueviolet;
+    color: red;
+    font-weight: bold;
 }
 @media (max-width:480px) {
     form{

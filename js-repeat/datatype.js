@@ -161,6 +161,36 @@ let game=
     }
 console.log(game.place)
 
+// ternary operator
+// ex.1
+let calender=4;
+result=calender > 40? "pass":"failed";
+console.log(result)
+
+//ex.2
+let pen=50
+result=pen>20?"true":"false";
+console.log(result)
+
+//ex.3
+let day=35
+result=day===45?"true":"false";
+console.log(result)
+
+//ex.4
+let eng=20
+let marathi=65
+let hindi=97
+result=eng>35 && marathi>35 && hindi>35?"pass":"failed";
+console.log(result)
+
+//ex.5
+let bio, math,chem
+bio=5
+math=5
+chem=8
+result=bio>35 || math>35 || chem>35 ?"true":"false";
+console.log(result)
 
 
 

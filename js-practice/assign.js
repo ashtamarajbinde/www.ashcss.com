@@ -57,3 +57,5 @@ console.log(selfinformation[0].Name)
 //array ex.2
 let mobileNo=[7083491199,7083600099,8806107499]
 console.log(mobileNo[2])
+
+//=====================================================================

@@ -24,3 +24,10 @@ console.log('addition = ' + add);
  iphone=100000;
  div=mobile/iphone;
  console.log("division = " +div);
+
+ //============ modulous (remindar)===================
+ let watch,parseInt
+ watch = 10;
+ pin = 5 ;
+ modulous = watch % pin ;
+ console.log ("modulous = " + modulous);
