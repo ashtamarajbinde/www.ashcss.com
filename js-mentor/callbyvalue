@@ -1,0 +1,7 @@
+// ex.1
+function mobile (a,b,c,d,e,f)
+{
+    console.log (a,b,c,d,e,f)
+}
+let array =['ashtama' , 'machhindra','rajbinde']
+mobile (array[0] ,array(1))
