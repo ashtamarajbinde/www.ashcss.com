@@ -5,3 +5,4 @@ function ashu ()
 console.log ('wow i amnew function')
     }
 }
+let a = ashu ()

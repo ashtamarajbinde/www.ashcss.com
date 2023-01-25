@@ -35,4 +35,4 @@ console.log(tax)
     'isbrand':true
  }
 
- 
+ console.log (mobile)

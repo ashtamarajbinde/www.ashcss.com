@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(images/istockphoto-1139156961-640_adpp_is.mp4);
+}
+
+.b{
+    text-align: center;
+    margin: 30px;
+    color: rgb(224,61,89);
+}
+.c{
+    margin: 30px;
+    text-align: center;
+}
+.d{
+    
+    color: rgb(224,61,89);
+}
+
+img{
+width: 240px;
+}
+.e{
+    border-radius: 50px;
+    color: bisque;
+    text-transform: capitalize;
+}
+.e.bg-primary{
+    background-color: pink;
+    border-radius: 50px;
+    color: aqua;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin: 50px 0px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.e audio{
+height: 10px;
+    width: 3000px;
+    text-align: center;
+    margin: auto;
+}
+.e.bg-secondary{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.e.bg-success{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.e.bg-danger{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.e.bg-warning{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.e.bg-info{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.m{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.f{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+width: 300px;
+margin: auto;
+}
+.animation{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 95%;
+    margin-bottom: 60px;
+    animation: ash infinite linear 1s;
+    -webkit-transform: translate3d(30%, 0, 0);
+    transform: translate3d(30%, 0, 0);
+}
+.h{
+    color: beige;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50px;
+}
+@keyframes ash{
+from{
+    -webkit-transform: rotate(0);
+}
+25%{
+    -webkit-transform: rotate(1.5deg);
+}
+50%{
+    -webkit-transform: rotate(0deg);
+}
+75%{
+    -webkit-transform: rotate(1.5deg);
+}
+to{
+    -webkit-transform: rotate(0);
+}
+}
+.i{
+    font-size: 18px;
+    margin-top: 28px;
+    color: rgb(224,61,89);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.j{
+position: fixed;
+right: 0;
+bottom: 0;
+width: 60px;
+height: 60px;
+margin: 20px;
+}
+
+
+
+
+
+
